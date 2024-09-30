@@ -1,0 +1,3 @@
+bien empezando agradeciendo a los coach y demas personas que han estado a lo largo de este curso maravilloso ya que su gran trabajo da frutos a los que estamos aprendiendo
+pues apezar de ser dificil este modulo aprendi bastante en especial las funciones, librerias y los modulos que fue lo mas interesante para mi, pues pude poner aprueba la mayoria de lo aprendido en este modulo.
+hacer la maquina de galton en simulacion fue bastante complicado mas no imposible y apesar dee tener fallas al principio lo pude perfeccionar y el resultado lo tienen, espero sea de su agrado y pueda obtener una buena calificacion, por su atencion gracias :)
